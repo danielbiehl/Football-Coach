@@ -517,7 +517,8 @@
 			"confName": "SECE"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "MICH",
 					"prestige": "80",
 					"hexColor": "#00274C",
@@ -651,7 +652,7 @@
 						"name": "Scottie Hazelton",
 						"contractYear": "0"
 					},
-					"rival": "NW",
+					"rival": "PSU",
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2021",
@@ -669,6 +670,57 @@
 					},
 					"name": "Michigan State Spartans",
 					"state": "Michigan"
+				},
+				{
+					"abbreviation": "PSU",
+					"prestige": "65",
+					"hexColor": "#041E42",
+					"offCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "46",
+						"cumulativePrestige": "0",
+						"homeState": "Pennsylvania",
+						"ratPot": "84",
+						"hometown": "California",
+						"ratTalent": "47",
+						"baselinePrestige": "65",
+						"coachingAbility": "65",
+						"name": "Mike Yurcich",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "47",
+						"cumulativePrestige": "0",
+						"homeState": "Florida",
+						"ratPot": "78",
+						"hometown": "Miami",
+						"ratTalent": "75",
+						"baselinePrestige": "70",
+						"coachingAbility": "75",
+						"name": "Manny Diaz",
+						"contractYear": "0"
+					},
+					"rival": "MSU",
+					"headCoach": {
+						"contractLength": "6",
+						"startYear": "2021",
+						"age": "49",
+						"ratOff": "74",
+						"cumulativePrestige": "0",
+						"ratDef": "78",
+						"homeState": "Pennsylvania",
+						"ratPot": "80",
+						"hometown": "Langhorne",
+						"ratTalent": "68",
+						"baselinePrestige": "70",
+						"name": "James Franklin",
+						"contractYear": "0"
+					},
+					"name": "Penn State Nittany Lions",
+					"state": "Pennsylvania"
 				},
 				{
 					"abbreviation": "WISC",
@@ -924,57 +976,6 @@
 					},
 					"name": "Indiana Hoosiers",
 					"state": "Indiana"
-				},
-				{
-					"abbreviation": "NW",
-					"prestige": "75",
-					"hexColor": "#4E2A84",
-					"offCoordinator": {
-						"contractLength": "3",
-						"startYear": "2021",
-						"age": "33",
-						"cumulativePrestige": "0",
-						"homeState": "Arkansas",
-						"ratPot": "66",
-						"hometown": "Springdale",
-						"ratTalent": "66",
-						"baselinePrestige": "55",
-						"coachingAbility": "70",
-						"name": "Mike Bajakian",
-						"contractYear": "0"
-					},
-					"defCoordinator": {
-						"contractLength": "3",
-						"startYear": "2021",
-						"age": "47",
-						"cumulativePrestige": "0",
-						"homeState": "Washington",
-						"ratPot": "56",
-						"hometown": "Arlington",
-						"ratTalent": "86",
-						"baselinePrestige": "55",
-						"coachingAbility": "68",
-						"name": "Jim O'Neil",
-						"contractYear": "0"
-					},
-					"rival": "MSU",
-					"headCoach": {
-						"contractLength": "6",
-						"startYear": "2021",
-						"age": "42",
-						"ratOff": "64",
-						"cumulativePrestige": "0",
-						"ratDef": "66",
-						"homeState": "Virginia",
-						"ratPot": "89",
-						"hometown": "Linden",
-						"ratTalent": "66",
-						"baselinePrestige": "55",
-						"name": "Pat Fitzgerald",
-						"contractYear": "0"
-					},
-					"name": "Northwestern Wildcats",
-					"state": "Illinois"
 				},
 				{
 					"abbreviation": "ILL",
@@ -3202,7 +3203,8 @@
 			"confName": "ACC"
 		},
 		{
-			"confTeams": [{
+			"confTeams": [
+				{
 					"abbreviation": "UM",
 					"prestige": "89",
 					"hexColor": "#005030",
@@ -3253,7 +3255,7 @@
 					"name": "Miami Hurricanes",
 					"state": "Florida"
 				},
-{
+				{
 					"abbreviation": "UMD",
 					"prestige": "45",
 					"hexColor": "#E03A3E",
@@ -3304,7 +3306,57 @@
 					"name": "Maryland Terrapins",
 					"state": "Maryland"
 				},
-
+				{
+					"abbreviation": "NW",
+					"prestige": "75",
+					"hexColor": "#4E2A84",
+					"offCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "33",
+						"cumulativePrestige": "0",
+						"homeState": "Arkansas",
+						"ratPot": "66",
+						"hometown": "Springdale",
+						"ratTalent": "66",
+						"baselinePrestige": "55",
+						"coachingAbility": "70",
+						"name": "Mike Bajakian",
+						"contractYear": "0"
+					},
+					"defCoordinator": {
+						"contractLength": "3",
+						"startYear": "2021",
+						"age": "47",
+						"cumulativePrestige": "0",
+						"homeState": "Washington",
+						"ratPot": "56",
+						"hometown": "Arlington",
+						"ratTalent": "86",
+						"baselinePrestige": "55",
+						"coachingAbility": "68",
+						"name": "Jim O'Neil",
+						"contractYear": "0"
+					},
+					"rival": "MSU",
+					"headCoach": {
+						"contractLength": "6",
+						"startYear": "2021",
+						"age": "42",
+						"ratOff": "64",
+						"cumulativePrestige": "0",
+						"ratDef": "66",
+						"homeState": "Virginia",
+						"ratPot": "89",
+						"hometown": "Linden",
+						"ratTalent": "66",
+						"baselinePrestige": "55",
+						"name": "Pat Fitzgerald",
+						"contractYear": "0"
+					},
+					"name": "Northwestern Wildcats",
+					"state": "Illinois"
+				},
 
 				{
 					"abbreviation": "PITT",
